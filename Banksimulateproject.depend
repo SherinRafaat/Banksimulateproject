@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1708458197 source:c:\users\sherain\documents\banksimulateproject\main.cpp
+	<iostream>
+	"Bank.h"
+
+1708458897 c:\users\sherain\documents\banksimulateproject\include\bank.h
+	<string>
+	"Customer.h"
+	<iostream>
+	<queue>
+	<windows.h>
+	<iomanip>
+
+1708449617 c:\users\sherain\documents\banksimulateproject\include\customer.h
+	<string>
+
+1708619669 source:c:\users\sherain\desktop\banksimulateproject\main.cpp
+	<iostream>
+	"Bank.h"
+	<cctype>
+
+1708619560 c:\users\sherain\desktop\banksimulateproject\include\bank.h
+	<string>
+	"Customer.h"
+	<iostream>
+	<queue>
+	<windows.h>
+	<iomanip>
+
+1708608889 c:\users\sherain\desktop\banksimulateproject\include\customer.h
+	<string>
+
